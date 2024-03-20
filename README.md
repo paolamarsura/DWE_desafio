@@ -14,6 +14,11 @@ Muito além dos prêmios que levamos, fica o sentimento de dever cumprido e reco
 
 Compartilho aqui meu notebook, onde trabalhei para a entrega com Python Pandas e utilizei ferramentas como o Power BI. 
 
+O desafio foi composto por duas partes onde:
+
+1ª Parte – Desenvolvimento Pipeline/Notebook - Visual Code - Utilizando Python e Pandas
+2ª Parte – Conhecimentos PYTHON PANDAS (Scripts que respondiam as perguntas do negócio)
+
 Durante o bootcamp, tivemos contato com as linguagens de SQL , T-SQL e Python (Python Pandas e Python Delta) e ferramentas como: Power BI, Data Factory, Data Activator, Synapse Real Time Analytics, Synapse Data Warehouse, Synapse Data Engineering, One Lake, Synapse Data Science, tudo isso para aprender a trabalhar Data Engineering no Microsoft Fabric.
 
 CERTIFICADO:
