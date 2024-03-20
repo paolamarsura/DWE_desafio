@@ -1,0 +1,3 @@
+IDProduto,Data,IDCliente,IDCampanha,Unidades,Produto,Categoria,Segmento,IDFabricante,Fabricante,CustoUnitario,PrecoUnitario,CodigoPostal,EmailNome,Cidade,Estado,Regiao,Distrito,Pais
+10000000,2012-07-26 00:00:00.000,1123264811,22,1,Gol,Cama,Auto,8,Chevrolet,74.7299175,102.36975,33194,"(Nerea.Barry@xyza.com): Barry, Nerea","SaoPaulo, FL, USA",FL,East,District #10,USA
+20000000,2013-10-31 00:00:00.000,2658477922,22,1,Celta,Mesa,Auto,8,Volswagen,74.7299175,102.36975,33177,"(Elliott.Stuart@xyza.com): Stuart, Elliott","SaoPaulo, FL, USA",FL,East,District #10,USA
